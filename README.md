@@ -164,7 +164,7 @@ We welcome collaborators, researchers, and ecosystem collaborators!
 * Join Discord to get latest update: [Discord](https://C.gg/PRzG3MSP)
 * 💬 Open issues or suggestions via [GitHub Issues](https://github.com/your-repo/issues)
 * 📧 Contact us directly: [team@isek.xyz](mailto:team@isek.xyz)
-* 📧 Contact Auther: [wmswms938@gmail.com](mailto:wmswms938@gmail.com)
+* 📧 Contact Author: [wmswms938@gmail.com](mailto:wmswms938@gmail.com)
 * 📄 See our [Contribution Guidelines](CONTRIBUTING.md)
 
 ---
