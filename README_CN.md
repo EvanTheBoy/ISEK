@@ -164,6 +164,7 @@ print("wallet:", address, "agent_id:", agent_id, "tx:", tx_hash)
 * 加入 Discord 获取最新更新: [Discord](https://C.gg/PRzG3MSP)
 * 💬 通过 [GitHub Issues](https://github.com/your-repo/issues) 提交问题或建议
 * 📧 直接联系我们: [team@isek.xyz](mailto:team@isek.xyz)
+* 📧 联系作者: [wmswms938@gmail.com](mailto:wmswms938@gmail.com)
 * 📄 查看我们的 [贡献指南](CONTRIBUTING.md)
 
 ---
